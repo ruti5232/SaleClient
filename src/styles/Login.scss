@@ -1,0 +1,25 @@
+.divAll{
+    background-image:url("../../public/assets/p.jpg");
+    text-align: center;
+    margin-top: 30vh;
+    width:100vw;
+    height: 100vh;
+    margin-top:0;
+    .login-img{
+        width:100%;
+    }
+}
+.login-inputs{
+    padding-top: 40vh;
+}
+.mineInp{
+    margin-top: 5vh;
+    margin: 2% auto ;
+    width: 20%;
+}
+// .form-control{
+//     height: 30%;
+// }
+input{
+    margin: auto;
+}
